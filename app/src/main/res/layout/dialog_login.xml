@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content"
+    android:layout_gravity="center"
+    android:background="@drawable/bg_corner_white"
+    android:backgroundTint="?cardBg"
+    android:gravity="center"
+    android:layoutDirection="locale"
+    android:orientation="vertical"
+    android:padding="@dimen/_20sdp">
+
+    <ImageView
+        android:layout_width="wrap_content"
+        android:layout_height="@dimen/_30sdp"
+        android:adjustViewBounds="true"
+        android:src="@drawable/ic_gear"
+        tools:ignore="ContentDescription" />
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="@dimen/_10sdp"
+        android:layout_marginBottom="@dimen/_20sdp"
+        android:gravity="center_horizontal"
+        android:text="@string/login_warning"
+        android:textColor="?headlineTextColor"
+        android:textSize="@dimen/_10ssp" />
+
+    <androidx.appcompat.widget.AppCompatButton
+        android:id="@+id/goToLoginButton"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:background="@drawable/bg_accent_corners_verylow"
+        android:padding="@dimen/_5sdp"
+        android:text="@string/go_to_login"
+        android:textColor="@color/white"
+        android:textSize="@dimen/_9ssp"
+        android:textStyle="bold" />
+
+</LinearLayout>

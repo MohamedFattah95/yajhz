@@ -1,0 +1,125 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">مشعلل</string>
+
+    <!--Toolbar menus-->
+    <string name="clear">مسح</string>
+    <string name="cut">قص</string>
+    <string name="copy">نسخ</string>
+    <string name="paste">لصق</string>
+    <string name="delete">حذف</string>
+    <string name="share">مشاركة</string>
+
+    <!--Drawer Menus-->
+    <string name="about">عن التطبيق</string>
+    <string name="logout">تسجيل خروج</string>
+
+    <!--App Message-->
+    <string name="api_retry_error">الرجاء إعادة المحاولة</string>
+    <string name="api_default_error">حدث خطأ ما!</string>
+    <string name="some_error">حدث خطأ ما!</string>
+    <string name="connection_error">فشل الإتصال بالإنترنت</string>
+
+    <!--Login-->
+    <string name="login_dummy">تسجيل دخول</string>
+    <string name="login">الدخول</string>
+    <string name="email">إيميلك</string>
+    <string name="password">كلمة السر</string>
+
+    <!--Login Validation-->
+    <string name="invalid_email_password">فصلاً اكتب البريد وكلمة السر</string>
+
+    <string name="version">نسخة</string>
+
+    <!--rating dialog-->
+    <string name="rate_us">تقييم التطبيق</string>
+    <string name="rating_message">الرجاء إخبارنا كيف نحسن أنفسنا</string>
+    <string name="rating_play_store_text">قيمنا على المتجر</string>
+    <string name="rating_thanks">شكراً لك!</string>
+
+    <!--play store-->
+    <string name="app_google_play_store_link">"https://play.google.com/store/apps/details?id="</string>
+    <string name="app_market_link">"market://details?id="</string>
+
+    <!--button-->
+    <string name="later">لاحقاً</string>
+    <string name="submit">تأكيد</string>
+
+    <!--empty state-->
+    <string name="empty_screen">ليس لدينا شيء هنا في الوقت الحالي</string>
+    <string name="please_retry">فضلاً أعد المحاولة</string>
+    <string name="retry">أعد المحاولة</string>
+    <string name="home">الرئيسية</string>
+    <string name="skip">تخطي</string>
+    <string name="back">رجوع</string>
+    <string name="mobile_number_hint">رقم الجوال (05)</string>
+    <string name="mobile_number">رقم جوالك</string>
+    <string name="create_new_account">إنشاء حساب جديد</string>
+    <string name="forgot_password_">نسيت كلمة السر</string>
+    <string name="forgot_password"><u>نسيت كلمة السر</u></string>
+    <string name="restore_password"><u>استعادة كلمة السر</u></string>
+    <string name="notifications">الإشعارات</string>
+    <string name="empty_mobile">رقم الجوال فارغ</string>
+    <string name="empty_password">كلمة السر فارغة</string>
+    <string name="invalid_password">كلمة السر يجب أن تتكون من 8 إلى 12 حرف</string>
+    <string name="accept_terms_to_continue">الرجاء الموافقة على الشروط والأحكام للاستمرار</string>
+    <string name="empty_code">رمز التفعيل فارغ</string>
+    <string name="after">بعد</string>
+    <string name="seconds">ث</string>
+    <string name="congratulations">تهانينا</string>
+    <string name="your_account_successfully_activated">تم تفعيل حسابك بنجاح</string>
+    <string name="please_complete_your_profile_information">فضلاً، استكمل بيانات حسابك الشخصي</string>
+    <string name="ok">تمام</string>
+    <string name="empty_first_name">الإسم الأول فارغ</string>
+    <string name="empty_last_name">الإسم الأخير فارغ</string>
+    <string name="empty_full_name">الإسم فارغ</string>
+    <string name="empty_birthday">تاريخ الميلاد فارغ</string>
+    <string name="empty_gender">النوع فارغ</string>
+    <string name="invalid_email">البريد الإلكتروني غير صحيح</string>
+    <string name="invalid_mobile_prefix">رقم الجوال يجب أن يبدأ بـ 05</string>
+
+    <string name="current_location">موقعي الحالي</string>
+    <string name="looking_for_search">ابحث عن اي شئ</string>
+    <string name="login_drawer">تسجيل الدخول</string>
+    <string name="home_menu">الرئيسية</string>
+    <string name="profile_menu">الملف الشخصي</string>
+    <string name="warnings">التنبيهات</string>
+    <string name="favs">المفضلة</string>
+    <string name="share_app">شارك التطبيق</string>
+    <string name="settings">الإعدادات</string>
+    <string name="logout_menu">تسجيل الخروج</string>
+    <string name="login_warning">يجب تسجيل الدخول لإستخدام الخدمة</string>
+    <string name="go_to_login">تسجيل الدخول</string>
+    <string name="choose_city">اختر مدينتك</string>
+    <string name="full_name">الإسم بالكامل</string>
+    <string name="confirm_password">تأكيد كلمة السر</string>
+    <string name="register">تسجيل</string>
+    <string name="i_accept_terms_and_conditions"><u>أوافق على الشروط والأحكام</u></string>
+    <string name="have_an_account">لديك حساب بالفعل؟</string>
+    <string name="sign_up">تسجيل</string>
+    <string name="sign_in"><u>تسجيل الدخول</u></string>
+    <string name="phone_entry">أدخل رقم جوالك</string>
+    <string name="phone_entry_info">فضلاً أدخل رقم جوالك المسجل لدينا</string>
+    <string name="reset_password">إعادة تعيين كلمة السر</string>
+    <string name="enter_the_new_password">أدخل كلمة السر الجديدة</string>
+    <string name="please_enter_the_new_password">فضلاً أدخل كلمة السر الجديدة</string>
+    <string name="passwords_not_matched">كلمتا السر غير متطابقتين</string>
+    <string name="send">إرسال</string>
+    <string name="invalid_mobile">رقم الجوال غير صحيح</string>
+    <string name="verify_code">كود التحقق</string>
+    <string name="enter_verify_code">إدخال كود التحقق</string>
+    <string name="save">حفظ</string>
+    <string name="update">تحديث</string>
+    <string name="place_name">اسم المكان</string>
+    <string name="category">الفئة</string>
+    <string name="privacy_and_policy"><u>السياسة والخصوصية</u></string>
+    <string name="already_have_an_account"><u>بالفعل امتلك حسابا</u></string>
+    <string name="sign_out"><u>خروج</u></string>
+    <string name="invalid_password_pattern">كلمة السر يجب أن تحتوي على رقم وحرف كبير وحرف صغير وحرف خاص</string>
+    <string name="filter">تصفية</string>
+    <string name="apply">تطبيق</string>
+    <string name="categories">الفئات</string>
+    <string name="view_all">View all</string>
+    <string name="am_text">AM</string>
+    <string name="pm_text">PM</string>
+</resources>

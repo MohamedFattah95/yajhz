@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <attr name="primaryColor" format="color" />
+    <attr name="primaryDarkColor" format="color" />
+    <attr name="accentColor" format="color" />
+    <attr name="secondaryColor" format="color" />
+    <attr name="darkSecondaryColor" format="color" />
+    <attr name="bgColor" format="color" />
+    <attr name="headlineTextColor" format="color" />
+    <attr name="textColor" format="color" />
+    <attr name="metaTextColor" format="color" />
+    <attr name="cardBg" format="color" />
+    <attr name="gradientBg" format="reference" />
+    <attr name="app_logo" format="reference" />
+
+</resources>
